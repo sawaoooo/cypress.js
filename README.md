@@ -1,7 +1,7 @@
 <h2>UI Автотесты на фреймворке Cypress</h2>
 
 > **Статус проекта:**
-> Публичный проект: https://login.qa.studio/
+> Публичный проект
 > 
 > 🟢 Поддерживается (активный) 
 
@@ -51,7 +51,3 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 Ожидаемый результат: получим отчет о прохождении тестов.
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_UI.png)
 
-
-## Автор
-
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
